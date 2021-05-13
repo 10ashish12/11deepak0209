@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
+<img src = "https://www.linkedin.com/in/deepak-gautam-14b027184/" align = 'left' />
 <img src='https://github-readme-stats.vercel.app/api?username=11deepak0209&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=11deepak0209&theme=tokyonight&hide_langs_below=4' align="middle" />
 
