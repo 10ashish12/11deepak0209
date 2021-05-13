@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Freelancing WOrk on Upwork
 - 🌱 I’m currently learning ANdroid Studio
 - 👯 I’m looking to collaborate on Blog 
