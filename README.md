@@ -7,11 +7,17 @@
 - 💬 Ask me about C , C++ , Java , Kali linux , CMD , Powershell, BASH , and  web development
 - 📫 How to reach me: rohit45deepak@gmail.com
 - ⚡ Fun fact: ?
+<hr
+    
+    
+    
+<img
+src="https://2.bp.blogspot.com/-uRY6I6uVF_s/VaXffmYyvVI/AAAAAAAAB7s/Jw15R0qy9VQ/s1600/iron%252Bman%252Bgif%252Bimages%252Bon%252Bmithileshjoshi.blogspot.com%252Bjarvis%252Bshell%252Bcommands%252B%2525289%252529.gif" width="500" height = "500" align= "left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=11deepak0209&theme=algolia&hide_langs_below=4' width = "400" align="right" />
 
-
-<img src='https://github-readme-stats.vercel.app/api?username=11deepak0209&show_icons=true&theme=algolia&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=11deepak0209&theme=algolia&hide_langs_below=4' align="middle" />
-
+    
+    
+<img src='https://github-readme-stats.vercel.app/api?username=11deepak0209&show_icons=true&theme=algolia&count_private=true&line_height=30' width = "500" align ="left" />
 <p align="left"> <a href="https://github.com/11deepak0209"><img src="https://github-profile-trophy.vercel.app/?username=11deepak0209&theme=dracula" alt="11deepak0209" /></a</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=11deepak0209&theme=algolia)](https://git.io/streak-stats)
