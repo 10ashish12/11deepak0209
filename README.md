@@ -12,8 +12,8 @@
     
     
 <img
-src="https://2.bp.blogspot.com/-uRY6I6uVF_s/VaXffmYyvVI/AAAAAAAAB7s/Jw15R0qy9VQ/s1600/iron%252Bman%252Bgif%252Bimages%252Bon%252Bmithileshjoshi.blogspot.com%252Bjarvis%252Bshell%252Bcommands%252B%2525289%252529.gif" width="500" height = "500" align= "left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=11deepak0209&theme=algolia&hide_langs_below=4' width = "400" align="right" />
+src="https://2.bp.blogspot.com/-uRY6I6uVF_s/VaXffmYyvVI/AAAAAAAAB7s/Jw15R0qy9VQ/s1600/iron%252Bman%252Bgif%252Bimages%252Bon%252Bmithileshjoshi.blogspot.com%252Bjarvis%252Bshell%252Bcommands%252B%2525289%252529.gif" width="350" height = "300" align= "left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=11deepak0209&theme=algolia&hide_langs_below=4' width = "300" align="right" />
 
     
     
