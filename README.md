@@ -1,6 +1,6 @@
 ### Hi there I am Deepak 👋
 
-- 🔭 I’m currently working on Freelancing WOrk on Upwork
+- 🔭 I’m currently working on http://www.thenddeveloper.com/
 - 🌱 I’m currently learning ANdroid Studio
 - 👯 I’m looking to collaborate on Blog 
 - 🤔 I’m looking for help with internet
