@@ -1,7 +1,7 @@
 ### Hi there I am Deepak 👋
 
 - 🔭 I’m currently working on http://www.thenddeveloper.com/
-- 🌱 I’m currently learning ANdroid Studio
+- 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Blog 
 - 🤔 I’m looking for help with internet
 - 💬 Ask me about C , C++ , Java , Kali linux , CMD , Powershell, BASH , and  web development
